@@ -88,7 +88,9 @@ body{
 }
 .inner-develop-txt{
     width: 40%;
-   
+}
+.develop-header{
+    font-size: 36px;
 }
 /*community*/
 .community-txt{
@@ -144,14 +146,18 @@ border: 5px solid gray;
 .ssc ul li{
     list-style: none;
 }
-.ssc{
-
-border-radius: 10px;
-}
 
 .ssc h1{
     text-align: center;
     text-decoration: underline;
+    font-weight: bold;
+}
+.resume-section{
+    margin-bottom: 100px;
+}
+.cv-button{
+    text-align: right;
+    padding-right: 9%;
 }
 /*footer*/
 footer{
