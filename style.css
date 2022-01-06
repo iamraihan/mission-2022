@@ -1,0 +1,173 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.flex-container{
+    display: flex;
+}
+.banner-area{
+    width: 50%;
+    padding-left: 5%;
+    margin-bottom: 100px;
+}
+.banner-area img {
+    width: 46%;
+    margin-top: -65px;
+}
+.border-left h1{
+    font-size: 50px;
+    font-family: 'Yeseva One', cursive;
+}
+.orange-color{
+    color: #FFAD5A;
+}
+.banner-area p{
+    font-size: 18px;
+}
+.global-btn{
+    padding: 10px 40px;
+    background-color: #FF5959;
+    text-decoration: none;
+    border-radius: 5px;
+    color: #fff;
+}
+
+
+.border-left{
+    border-left: 3px solid #FF5959;
+    padding-left: 10px;
+}
+/*Mission are */
+.mission-header{
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 0;
+}
+.mission-container{
+    display: flex;
+    
+    margin: 0 auto;
+    margin-bottom: 100px;
+}
+.mission-img img{
+    width: 35%;
+}
+.inner-mission-area{
+  margin: 5%;
+  border-radius: 10px;
+  padding: 5px;
+  padding-left: 20px !important;
+}
+#mission{
+    background-color: #edf5f6;
+}
+#vision{
+    background-color: #ffeeee;
+}
+#goals{
+    background-color: #fff4d6;
+}
+/*Develop */
+.develop-container{
+    display: flex;
+    /* width: 80%; */
+    margin: 0 auto;
+    margin-bottom: 100px;
+
+
+}
+.inner-develop-img{
+    width: 40%;
+    padding-left: 5%;
+}
+.inner-develop-img img{
+    width: 50%;
+    
+ 
+}
+.inner-develop-txt{
+    width: 40%;
+   
+}
+/*community*/
+.community-txt{
+    width: 50%;
+    padding-left: 5%;
+}
+.community-img{
+    width: 50%;
+    padding-left: 5%;
+}
+.community-img img{
+    width: 50%;
+}
+/*resume*/
+.resume{
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.resume-image img{
+border-radius: 50%;
+width: 20%;
+border: 5px solid gray;
+}
+.liner{
+    height: 5px;
+    width: 80%;
+    background-color: gray;
+    margin: 0 auto;
+}
+.about-me-container{
+    display: flex;
+}
+.inner-about{
+    width: 50%;
+}
+.edu-container{
+    display: flex;
+    padding-right: 12%;
+}
+.education-container{
+    display: flex;
+}
+.education{
+    width: 50%;
+    margin: 0 auto;
+}
+.edu-header{
+    text-align: center;
+    padding-left: 40%;
+    margin-top: 70px;
+}
+.ssc ul li{
+    list-style: none;
+}
+.ssc{
+
+border-radius: 10px;
+}
+
+.ssc h1{
+    text-align: center;
+    text-decoration: underline;
+}
+/*footer*/
+footer{
+    background-color: #000;
+    text-align: center;
+    padding: 20px;
+}
+footer h1{
+    color: #fff;
+    font-family: 'Lobster', cursive;
+    font-size: 40px;
+}
+footer span{
+    color: #FF5959;
+}
+
+footer p{
+    color: #63B4B8;
+}
